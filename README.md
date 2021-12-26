@@ -1,2 +1,2 @@
-# react-starter-template
-React Starter Template
+# react-starter-admin-template
+React Starter Admin Template
